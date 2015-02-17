@@ -1,0 +1,17 @@
+﻿body{font:14px "Microsoft Yahei",Arial !important;color:#333}
+.table th, .table td {text-align: center}
+#c{text-align: left}
+#logout{position:relative;right:0 px}
+.glyphicon{font-size: 18px}
+h1{margin-top: 40px !important;margin-bottom: 30px !important;text-align:center;}
+h4{margin-top: 30px !important;margin-bottom: 30px !important;color:#555;}
+a.list-group-item{color:#31708f !important}
+a.list-group-item:hover{color:#31708f !important}
+p{font-size:14px}
+.form-group {margin-top: 20px}
+.form-signin{background-color: Rgba(200,200,200,0.1);-moz-border-radius: 15px;
+-webkit-border-radius: 7px;border-radius:7px;padding:20px !important}
+#lb{margin-bottom: 20px}
+.footer{margin-top: 50px;text-align: center;color:#777}
+.footer .container{border-top: 1px dashed #ccc;}
+.right{float:right;}
